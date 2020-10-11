@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30524.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextCenter.JSONDataConsoleSample", "TextCenter.JSONDataConsoleSample\TextCenter.JSONDataConsoleSample.csproj", "{0A74AA37-7FB1-41C8-A187-7D68FE4922D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextCenter.TestAPI", "TextCenter.TestAPI\TextCenter.TestAPI.csproj", "{D0D9E63C-5C81-4840-B67E-87E4C8E71852}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A74AA37-7FB1-41C8-A187-7D68FE4922D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A74AA37-7FB1-41C8-A187-7D68FE4922D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A74AA37-7FB1-41C8-A187-7D68FE4922D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A74AA37-7FB1-41C8-A187-7D68FE4922D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0D9E63C-5C81-4840-B67E-87E4C8E71852}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0D9E63C-5C81-4840-B67E-87E4C8E71852}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0D9E63C-5C81-4840-B67E-87E4C8E71852}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0D9E63C-5C81-4840-B67E-87E4C8E71852}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B217E5FC-D8CD-43E5-AAB7-1D8FD84FEBC9}
+	EndGlobalSection
+EndGlobal
